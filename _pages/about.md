@@ -11,18 +11,15 @@ I am a undergraduate student studying at Texas A&M in the Electrical and Compute
 
 Research Interests
 ======
-Massive-scale computing systems
-Embedded Systems 
-Automated VLSI
+<li>Massive-scale computing systems<li>
+<li>Embedded Systems <li>
+<li>Automated VLSI<li>
 
 Experience
 ======
-HPE (Spring, TX), June - August 2024
-  Hardware Intern 
-Undergraduate Research(College Station, Texas), October 2023 - June 2024
-  EDA Researcher
+<li>HPE (Spring, TX), June - August 2024<li>
+  <li>Hardware Intern <li>
+<li>Undergraduate Research(College Station, Texas), October 2023 - June 2024<li>
+  <li>EDA Researcher<li>
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
