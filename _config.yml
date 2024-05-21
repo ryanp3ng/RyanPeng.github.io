@@ -24,7 +24,7 @@ author:
   avatar           : "RyanPeng.jpg"
   name             : "Ryan Peng"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Undergraduate Electrical Engineering student studying at Texas A&M University"
   location         : "Houston"
   employer         : "Texas A&M University"
   uri              : # URL
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : https://www.linkedin.com/in/ryan-peng-61541523a/
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
