@@ -3,11 +3,11 @@ main:
   # - title: "Solar Work"
    # url: /publications/
 
-  #- title: "VLSI Work"
-  #  url: /talks/    
+  - title: "VLSI Work"
+    url: /talks/    
 
-  #- title: "FPGA Work"
-    #url: /teaching/    
+  - title: "FPGA Work"
+    url: /teaching/    
     
   #- title: "Portfolio"
    # url: /portfolio/
