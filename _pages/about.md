@@ -11,12 +11,15 @@ I am a undergraduate student studying at Texas A&M in the Electrical and Compute
 
 Research Interests
 ======
-<li>Massive-scale computing systems</li>
-<li>Embedded Systems </li>
-<li>Automated VLSI</li>
+<ul>
+   <li>Massive-scale computing systems</li>
+   <li>Embedded Systems </li>
+   <li>Automated VLSI</li>
+</ul>
 
 Experience
 ======
+<ul>
 <li>HPE (Spring, TX), June - August 2024</li>
   <ul>
     <li>Hardware Intern </li>
@@ -24,6 +27,8 @@ Experience
 <li>Undergraduate Research(College Station, Texas), October 2023 - June 2024</li>
 <ul>
   <li>EDA Researcher</li>
+</ul>
+
 </ul>
 
 
