@@ -4,11 +4,11 @@ excerpt: "Collection of various VLSI labs I have completed"
 collection: portfolio
 ---
 
-[ECEN454 Lab Report 1-1.pdf]
-[ECEN454 Lab Report 2-1.pdf]
-[454 report 3-1.pdf]
-[454 Lab 4 Report.pdf]
-[454 lab5-1.pdf]
-[454 Lab Report 6-1.pdf]
-[454 Lab Report 7-2.pdf]
-[454_Lab9.pdf]
+<u>Lab 1</u><br>
+Introduction to Cadence Design and Simulation<br>
+Designed a gate-level full adder, then using that full adder, created a four-bit adder, and a 8-bit adder. After writing some Verilog tests, I was able to validate the adders.<br>
+<br>
+
+<u>Lab 2</u><br>
+
+
