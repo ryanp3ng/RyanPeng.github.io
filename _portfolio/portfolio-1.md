@@ -17,5 +17,5 @@ Then finally, I was able to create and test the 8-bit adder: <br>
 <img src = "/images/Lab1_8bitAdder.png"><img src = "/images/Lab1_8bitAdderTest.png"> <br>
 
 <u>Lab 2</u><br>
-
+<pdf src = "/files/ECEN454 Lab Report 2-1.pdf"><br>
 
