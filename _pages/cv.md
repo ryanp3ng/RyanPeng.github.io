@@ -42,6 +42,7 @@ Organizations
       * Collaborated with various teams to design a comprehensive diagram showing the distribution of power for the car and how it should be wired, resulting in optimal functionality and seamless implementation.
       * Rewiring the entire car and soldering components together using my diagram as reference to ensure the car is able to run once every part is connected together.
       * Manufactured a PCB that is coupled with a Buck converter in order to distribute different voltage values throughout the vehicle based on the requirements needed for every component.
+        <br/><img src = 'images/CarDiagram.jpg'>
 
 
 Skills
